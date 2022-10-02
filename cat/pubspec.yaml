@@ -16,7 +16,7 @@ dependencies:
   hive:
   hive_flutter:
   cupertino_icons: ^1.0.2
-
+  #api is shit gives only image with bytes because of it no retrofit
 
 dev_dependencies:
   flutter_test:
